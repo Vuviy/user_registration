@@ -5,7 +5,8 @@
 
   "require": {
     "php": "^8.3",
-    "ext-pdo": "*"
+    "ext-pdo": "*",
+    "spomky-labs/otphp": "^11.4"
   },
   "autoload": {
     "psr-4": {
